@@ -35,3 +35,4 @@ a={///@xxx
     d   :  new Object()
 }
 b
+c
