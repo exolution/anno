@@ -34,3 +34,4 @@ a={///@xxx
         :123,///@eee
     d   :  new Object()
 }
+b
